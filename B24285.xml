@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth seeks no corners Being a vindication of the people called Quakers from any design of concealing papists in their list first delivered to the King and Councel near two years since.</title>
+            <author>Hooke, Ellis, d. 1681.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24285</idno><idno type="EEBO-CITATION">99828193</idno>
+  <idno type="VID">207779</idno>
+  <idno type="EEBO-PROQUEST">2248501301</idno>
+  
+            <idno type="STC">Wing H2664A</idno>
+            <idno type="PROQUEST">99828193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828193e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1948:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth seeks no corners Being a vindication of the people called Quakers from any design of concealing papists in their list first delivered to the King and Councel near two years since.</title>
+                  <author>Hooke, Ellis, d. 1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Ellis Hooke.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207779:1"/>
+            <p>TRUTH Seeks no Corners.</p>
+            <p>BEING A VINDICATION Of the People called QUAKERS From any Design of Concealing Papists In their <hi>LIST</hi> first delivered to the <hi>KING</hi> and <hi>COƲNCEL</hi> near <hi>Two</hi> Years since.</p>
+            <p>Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207779:2"/>
+            <pb n="3" facs="tcp:207779:2"/>
+            <head>Truth seeks no Corners.</head>
+            <head type="sub">BEING A Vindication <hi>of the People called</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>from any</hi> Design <hi>of</hi> Conceal<g ref="char:EOLhyphen"/>ing Papists <hi>in their</hi> List <hi>first delive<g ref="char:EOLhyphen"/>red to the</hi> King <hi>and</hi> Councel <hi>near</hi> Two <hi>Years since.</hi>
+            </head>
+            <p>THe Case of the <hi>Evil</hi> and <hi>Good Man</hi> is very differing; the <hi>first</hi> dares not bring his Deeds to the <hi>Light,</hi> be<g ref="char:EOLhyphen"/>cause he is Conscious to himself of <hi>Guilt,</hi> and there<g ref="char:EOLhyphen"/>fore flies Enquiry, because he fears <hi>Conviction.</hi> The <hi>Good Man</hi> quite Contrary loves the <hi>Light</hi> and he recurs to it, as the Wit<g ref="char:EOLhyphen"/>ness of his Truth: he fears not to be <hi>tried,</hi> because he knows, his Innocency will acquit <subst>
+                  <add>him</add>
+                  <del>
+                     <gap reason="illegible: overwritten" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </del>
+               </subst>, and that all <hi>Slander</hi> and <hi>Injustice</hi> help in the End to magnifie his Integrity and Reputation. 'Tis to this <hi>Light</hi> of <hi>Truth</hi> in all Consciences we appeal, against a late <hi>Calumny</hi> cast upon us by some Crafty <subst>
+                  <del>,</del>
+                  <add>&amp;</add>
+               </subst> Malicious, and (be<g ref="char:EOLhyphen"/>liev'd by some) Ignorant Men, viz. <hi>That the</hi> Quakers <hi>use Arts to Conceal the</hi> Papists. We shall first state the <hi>Fact,</hi> from whence such Ill or Weak Men pretend to borrow their Informa<g ref="char:EOLhyphen"/>tion; and then offer our <hi>Reasons</hi> to detect the Report of <hi>Mis<g ref="char:EOLhyphen"/>chief, Folly</hi> and <hi>Ʋntruth.</hi>
+            </p>
+            <p>We the People called <hi>Quakers,</hi> having been for several <hi>Years</hi> severely prosecuted by Laws <del>only</del> made against <hi>Popish Recu<g ref="char:EOLhyphen"/>sants,</hi> as well as those enacted against <hi>Protestant Dissenters</hi> (whereby several Industrious Families have been reduc'd to great
+<pb n="4" facs="tcp:207779:3"/>Misery, and the <hi>Widow</hi> and the <hi>Orphan</hi> stript of common Con<g ref="char:EOLhyphen"/>veniences for their Subsistance) did make our Application and Complaint to the <hi>King</hi> &amp; <hi>Council;</hi> And that we might lay a Foun<g ref="char:EOLhyphen"/>dation for such an Address to stop those <hi>Cruel Prosecutions,</hi> we Ex<g ref="char:EOLhyphen"/>amin'd the <hi>Pipe;</hi> where we sound great Numbers intermixt throughout most Counties, Convicted upon the aforesaid Sta<g ref="char:EOLhyphen"/>tutes. And because we knew not all the Names of our own <hi>Friends</hi> from <hi>Papists,</hi> we to dist<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nguish our <hi>Friends</hi> from those <hi>Papists</hi> (though indeed the Partial <hi>Seizures</hi> and Extravagant <hi>Levies</hi> made upon us had been enough to that Discovery) did or<g ref="char:EOLhyphen"/>der several Letters to be writ unto the respective <hi>Counties,</hi> that they might inform us, which of them were reputed <hi>Quakers;</hi> being then Cautiou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the very thing, which has here befallen us. But it seems, by the Inadvertency of a <hi>Youth,</hi> who was or<g ref="char:EOLhyphen"/>dered by our Usual <hi>Clark</hi> (then forc'd to leave the Town by a long and extream Sickness, as we can prove) to write into <hi>Glo<g ref="char:EOLhyphen"/>cester-shire</hi> for an Exact Account of the State of our <hi>Friends</hi> in Relation to this Prosecution, it was omitted, and the Account for the <hi>County</hi> inserted, as it was taken out of the <hi>Pipe;</hi> which consisted but of <hi>Three</hi> Persons, whereof <hi>Two</hi> of them, it seems, are <hi>Papists,</hi> and the <hi>Third</hi> an Observer of the <hi>Jewish-Sabboth.</hi> And though these Men of Malice might as well have concluded us <hi>Jews</hi> as <hi>Papists</hi> from this Acci<g ref="char:EOLhyphen"/>dent, yet because the <hi>Papist</hi> is be<g ref="char:EOLhyphen"/>come a more Scandalous Creature then the <hi>Jew,</hi>
+               <note place="margin">So the Accusation a<g ref="char:EOLhyphen"/>gainst us calls the Person that holds the <hi>seventh day Sabboth.</hi>
+               </note> that reflection would not have serv'd their End; whose Contrivance it is to turn the Cry a<g ref="char:EOLhyphen"/>gainst the <hi>Papists</hi> upon the <hi>Quakers:</hi> And why? but to save them; at least to ruin us, the Design of those that are <hi>Papists,</hi> or <hi>Popishly Affected;</hi> who by these Devices seek to amuse the People, and to make honest Men jealous one of another. But the <hi>Reasons</hi> to be offered, why the <hi>Story</hi> is <hi>Incredible,</hi> are these.</p>
+            <p n="1">1. It cannot be thought, if we had design'd to <hi>Conceal</hi> the <hi>Papists,</hi> but that we would have spared our Care in the rest of
+<pb n="5" facs="tcp:207779:3"/>the <hi>Counties,</hi> or have taken more care to have brought them in in other places; which it is plain, we have not done.</p>
+            <p>But 2dly, It is not probable, that we should by <hi>Design</hi> bring in known <hi>Papists,</hi> and none of our own <hi>Friends</hi> amongst them; for not one of them was presented with those <hi>Three</hi> persons in the List of <hi>Glocester-shire.</hi> Whereas had we intended such a thing, it had looked more like a <hi>Design, To have inserted them amongst the Names of our Friends,</hi> (as we might have done in other Counties) that so we might the better have screen'd them from common Observation, especially knowing the Mischief of such Attempts detected.</p>
+            <p n="3">3dly, Men Generally propose some <hi>Advantage</hi> to themselves in what they do; but there could redound no Benefit to us in the Earth by this Project, and even to the <hi>Papists</hi> a very small one: but the Danger of being <hi>Caught,</hi> would have been <hi>Fatal.</hi> So that we must have been greatly false to our own <hi>Interest,</hi> to run an <hi>Hazard</hi> of this Consequence to us for so <hi>Trivial</hi> a <hi>Be<g ref="char:EOLhyphen"/>nefit</hi> to them.</p>
+            <p n="4">4thly, This was near <hi>Two Years</hi> ago, that the <hi>Omission</hi> hap<g ref="char:EOLhyphen"/>pened in the first Copy of the List; at what time it is easie to believe, that the Circumstances of the <hi>Papists</hi> were not so <hi>low</hi> or <hi>desperate,</hi> as that they should need the <hi>Quakers</hi> skill to put a Trick upon the <hi>Government</hi> for their Security: It is not hard to remember, that they then stood upon better Terms. But any thing it seems will serve (be it never so <hi>False</hi> or <hi>Foolish</hi>) that will but Bedirt us.</p>
+            <p n="5">5thly, To be Modest, and yet to Defend our selves against such <hi>Injurious Apprehensions,</hi> as are entertained of us; We must say, that we <hi>lay</hi> under the <hi>Furious Execution</hi> of those Laws against <hi>Popish-Recusants</hi> (<hi>Sixty</hi> Pounds having been taken for <hi>Thirteen</hi> Pound, and not a <hi>Penny</hi> returned, as we made appear before the late <hi>Parliament</hi>) to the Impoverishing of
+<pb n="6" facs="tcp:207779:4"/>many <hi>Industrious</hi> and <hi>Peaceable</hi> People; when scarce one <hi>Papist</hi> was toucht in whole <hi>Counties:</hi> Can any think, that the <hi>Papists</hi> needed us to hide them at that time of Day? Or doth this Usage of us prove us <hi>Papists,</hi> when <hi>Papists</hi> were not toucht?</p>
+            <p n="6">6thly, It cannot be <hi>Reasonably</hi> conceiv'd, that we being to make good these <hi>Allegations</hi> in the last <hi>Parliament</hi> (who ap<g ref="char:EOLhyphen"/>pointed a <hi>Committee</hi> for that purpose) should knowingly run our selves into such a <hi>Snare,</hi> as this was: And such was our <hi>Carriage</hi> and <hi>Evidence</hi> before them, both with respect to Per<g ref="char:EOLhyphen"/>sons and Things, that they declared their <hi>Satisfaction</hi> about us and our <hi>Suffering Friends,</hi> as those that <hi>Well deserv'd</hi> to be re<g ref="char:EOLhyphen"/>puted <hi>Protestant-Dissenters.</hi>
+            </p>
+            <p n="7">7thly, It is good old Doctrine, <hi>That the Tree is known by its Fruit;</hi> and it is plain, that among other things, in the <hi>Election</hi> of this present <hi>Parliament,</hi> we have not shown our selves to be <hi>Popishly</hi> Affected in the Disposal of our <hi>Voices;</hi> perhaps we stand upon even Terms at least, with any of our Enemies, as to our good <hi>Affection</hi> to the <hi>Publick.</hi>
+            </p>
+            <p>
+               <hi>Lastly,</hi> We offer the Affixed <hi>Declaration,</hi> as our Testi<g ref="char:EOLhyphen"/>mony against <hi>Popery,</hi> and of our good Affection to the <hi>Protestant Religion,</hi> and Resolution to lead a Sober and Peaceable Life under the present <hi>Government.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>A <hi>Protestation</hi> or <hi>Declaration</hi> to Distinguish <hi>Protestant Dissenters</hi> from <hi>Popish-Recusants.</hi>
+                        </head>
+                        <p>
+                           <hi>I A. B.</hi> do in the Presence of Almighty God solemnly profess, and in good Conscience declare, It is my real Judgment, That the <hi>Church</hi> of <hi>Rome</hi> is not the
+<pb n="7" facs="tcp:207779:4"/>
+                           <hi>Church</hi> of <hi>Christ,</hi> nor the <hi>Pope</hi> or Bishop of <hi>Rome Christ's Vicar;</hi> and that his or her Doctrines Of de<g ref="char:EOLhyphen"/>posing Heretical <hi>Princes,</hi> and Absolving their <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> of their Obedience; Of <hi>Purgatory</hi> and <hi>Prayers</hi> for the Dead; Of <hi>Indulgences</hi> and Worshipping of <hi>Images;</hi> Of Adoring and Praying to the <hi>Virgin Mary</hi> &amp; other Saints deceased; And of <hi>Transubstantiation,</hi> or changing the Elements of <hi>Bread</hi> and <hi>Wine</hi> into the <hi>Body</hi> and <hi>Blood</hi> of Christ at or after the Consecration thereof by any Person whatsoever, are False, Erro<g ref="char:EOLunhyphen"/>neous and Contrary to the Truth of God declared in the Holy Scriptures: And therefore the Communion of the said Church is <hi>Superstitious</hi> and <hi>Idolatrous.</hi>
+                        </p>
+                        <p>And I do likewise sincerely testifie and declare, that I do from the bottom of my Heart detest and abhor all <hi>Plots</hi> and <hi>Conspiracies,</hi> that are or may be contrived against the <hi>King, Parliament</hi> or People of this <hi>Realm:</hi> And I do hereby Faithfully Promise, with God's Help to live a Sober and Peaceable Life, as becometh a good Christian and <hi>Protestant</hi> to do. And all this I do <hi>Ac<g ref="char:EOLhyphen"/>knowledge, Intend, Declare</hi> and <hi>Subscribe</hi> with<g ref="char:EOLhyphen"/>out any Equivocation or Mental Reservation according to the true Plainness, Simplicity, and usual Significa<g ref="char:EOLhyphen"/>tion of the Words.</p>
+                        <closer>
+                           <signed>Witness my Hand.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>TO Conclude; We hope, that when it shall be Seriously consider'd, that our <hi>Principles</hi> and <hi>Practices</hi> carry a plain Contrariety to <hi>Rome,</hi> that we have always lived peaceably under the present Government, and that with patience we have under-gone all <hi>Plunderings, Beatings</hi> and <hi>Imprisonments</hi> (of some even to <hi>Death</hi>) and at whose <hi>Hands</hi> and by what <hi>Councils</hi>
+               <pb n="8" facs="tcp:207779:5"/>we have so suffered? It will not be thought hard, that we Im<g ref="char:EOLhyphen"/>peach the Inventors of this Story of <hi>Malice</hi> and <hi>Ʋngodliness,</hi> and the Believers of it of great <hi>Incharity</hi> and <hi>Injustice.</hi> And we doubt not, but in time God will Vindicate our Innocency before the whole World, and preserve us from the Envy and Rage of <hi>Evil Men,</hi> till we are better Understood.</p>
+            <closer>
+               <dateline>London, <date>the 7th of the 3d Moneth 1679.</date>
+               </dateline>
+               <signed>Signed by me <hi>Ellis Hookes,</hi> in the Name and on the Behalf of the People called <hi>QUAKERS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
